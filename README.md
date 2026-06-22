@@ -1,6 +1,6 @@
-# Hi 👋, I'm Dinesh
-
-## AI & Data Science Student | AI Developer
+# Hi 👋, I'm Dinesh Naarayanan
+### AI & Data Science Student | AI Developer
+---
 
 ### 🚀 Skills
 - Java
@@ -11,6 +11,9 @@
 - FastAPI
 - React
 - MongoDB
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 
 ### 📌 Projects
 - Private RAG Assistant
