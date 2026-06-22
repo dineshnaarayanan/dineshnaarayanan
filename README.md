@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Dinesh
+
+## AI & Data Science Student | AI Developer
+
+### 🚀 Skills
+- Java
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- FastAPI
+- React
+- MongoDB
+
+### 📌 Projects
+- Private RAG Assistant
+- Smart Parking Booking System
+- Sentiment Analysis
+
+### 📫 Connect with me
+LinkedIn: your-link
+Email: yourmail@gmail.com## Hi there 👋
 
 <!--
 **dineshnaarayanan/dineshnaarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
