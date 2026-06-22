@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dinesh Naarayanan
+# 👋, I'm Dinesh Naarayanan
 
 ### 🚀 AI & Data Science Student | AI Developer | Problem Solver
 
