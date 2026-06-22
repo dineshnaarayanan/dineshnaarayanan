@@ -18,8 +18,8 @@
 - Sentiment Analysis
 
 ### 📫 Connect with me
-LinkedIn: your-link
-Email: yourmail@gmail.com## Hi there 👋
+LinkedIn:https://www.linkedin.com/in/dinesh-naarayanan-042b88290/
+Email: dineshnaarayanan30@gmail.com
 
 <!--
 **dineshnaarayanan/dineshnaarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
